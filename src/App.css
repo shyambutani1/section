@@ -1,0 +1,45 @@
+/* .container{
+  margin: 0;
+  padding: 0;
+} */
+
+.row{
+  background-color: palegoldenrod;
+  margin-left: 1px;
+
+
+  margin-top: 10px;
+  border: 1px solid black;
+  border-radius: 8px;
+}
+.row p {
+  text-align: center;
+  margin-top: 8px;
+}
+.col-md-12{
+  background-color: aquamarine;
+
+  margin: auto;
+  margin-top: 15px;
+  border: 1px solid black;
+  border-radius: 8px;
+}
+.col-md-8{
+  background-color: aquamarine;
+  border: 1px solid black;
+  border-radius: 8px;
+}
+.col-md-4{
+  background-color: aquamarine;
+  margin-left: 8px;
+  margin-bottom: 15px;
+  border: 1px solid black;
+  border-radius: 8px;
+}
+.mydesign{
+  width: 420px;
+ height: 190px ;
+ background-color: aquamarine;
+ border: 1px solid black;
+ border-radius: 8px;
+}
